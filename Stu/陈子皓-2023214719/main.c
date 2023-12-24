@@ -7,5 +7,5 @@ int mian(){
     print("input your qq number");
     scanf("%s",i)；
 
-    retrun 0;t
+    retrun 0;
 }
